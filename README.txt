@@ -8,9 +8,11 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-This is a project intended to provide an IS to manage and explore information of differents airports and their components, 
-such as it's airlines, airplanes ad pricings. This project it's developed only for educational purpose and will not be
-deployed or make profit in any way.
+This is the first version of Acme ANS.  Acme AirNav Solutions, Inc.  (Acme ANS, Inc.  for short) is a fictitious 
+company that specialises in helping airports manage their resources and coordinate operations through the development 
+of software solutions.  The goal of this project is to develop a WIS to assist airports in managing logistics for 
+charter flights.  This includes flight scheduling, booking management, crew management, incident reporting and 
+resolution, as well as aircraft maintenance.
 
 - **/fragments/**
  
