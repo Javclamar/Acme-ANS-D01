@@ -19,8 +19,8 @@
 <acme:menu-bar>
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alevarmun1" action="https://www.kawasaki.es/es/products
-			"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alevarmun1" action="https://www.kawasaki.es/es/products"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-pablobi" action="https://www.youtube.com/watch?v=stgdmw8PcRY"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRealm('Administrator')">
