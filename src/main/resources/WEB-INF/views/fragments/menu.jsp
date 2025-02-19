@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-pablobi" action="https://www.youtube.com/watch?v=stgdmw8PcRY"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-javclamar" action="https://www.chess.com/home"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-AngSanRui" action="https://matias.me/nsfw/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-RubLopExp" action="https://www.youtube.com/watch?v=5OVYmXVZ5ok&ab_channel=RecapGaming"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRealm('Administrator')">
